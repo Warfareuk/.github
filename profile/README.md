@@ -1,5 +1,5 @@
 ## Warfare
 
-- Warfare is a CMG Inspired Fragging deathmatch server
+- Warfare is a network of FiveM servers, Deathmatch, Battleroyale & RolePlay
 
-- [Discord](https://discord.gg/ukbr)
+- [Discord](https://discord.gg/ukdm)
